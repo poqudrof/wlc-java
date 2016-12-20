@@ -23,7 +23,7 @@ sh cppbuild.sh install wlc
 maven install --projects .,wlc
 ```
 
-### Download and compile this minimal
+### Download and compile this minimal example
 
 ``` bash
 git clone https://github.com/poqudrof/wlc-java.git
